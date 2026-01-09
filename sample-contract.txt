@@ -1,0 +1,129 @@
+FREELANCE SOFTWARE DEVELOPMENT CONTRACT
+
+This Freelance Agreement ("Agreement") is entered into as of January 1, 2026 ("Effective Date") by and between TechCorp International Ltd. ("Client") and [Your Name] ("Contractor").
+
+1. SCOPE OF WORK
+Contractor agrees to develop a mobile application for iOS and Android platforms, including backend API, database design, user authentication, payment integration, and administrative dashboard according to specifications to be provided by Client. Contractor shall provide unlimited revisions until Client deems the work satisfactory.
+
+2. COMPENSATION
+Client agrees to pay Contractor a total project fee of $8,000 USD. Payment shall be made as follows:
+- 50% ($4,000) upon project completion
+- 50% ($4,000) ninety (90) days after invoice submission (Net-90)
+
+Client reserves the right to withhold payment if work is deemed unsatisfactory at Client's sole discretion.
+
+3. INTELLECTUAL PROPERTY RIGHTS
+All work product, deliverables, inventions, ideas, concepts, code, designs, documentation, and any other materials created by Contractor during the term of this Agreement, whether created during business hours or personal time, on Client equipment or personal equipment, related to this project or unrelated, shall become the sole and exclusive property of Client upon creation. This includes but is not limited to:
+- All source code, object code, and executables
+- All personal projects, side projects, and open source contributions made during contract period
+- Any improvements or derivative works
+- All intellectual property rights worldwide
+- Any inventions or patents arising from work during contract period
+
+Contractor hereby assigns all rights, title, and interest in perpetuity to Client. This assignment includes any work created up to twenty-four (24) months after contract termination.
+
+4. TERM AND TERMINATION
+This Agreement shall commence on the Effective Date and continue until project completion. 
+
+Client may terminate this Agreement at any time, with or without cause, with or without notice, and shall have no obligation to pay for work in progress, work completed but not yet paid for, or expenses incurred.
+
+Contractor may terminate this Agreement only by providing sixty (60) days written notice and must complete all work in progress during the notice period. Contractor forfeits all unpaid compensation upon termination by Contractor.
+
+5. LIABILITY AND INDEMNIFICATION
+Contractor agrees to indemnify, defend, and hold harmless Client, its officers, directors, employees, agents, and affiliates from and against any and all claims, damages, losses, liabilities, suits, actions, demands, proceedings, expenses, and costs (including but not limited to reasonable attorneys' fees) arising out of or relating to:
+- Contractor's performance or non-performance under this Agreement
+- Any breach of this Agreement by Contractor
+- Any negligent or willful acts or omissions by Contractor
+- Any third-party claims related to the work product
+- Any consequential, indirect, or punitive damages suffered by Client
+- Any business losses, lost profits, or reputational damage to Client
+
+There shall be no cap or limitation on Contractor's liability under this Agreement.
+
+6. WARRANTIES
+Contractor warrants and guarantees that:
+- All work will be completely error-free, bug-free, and perform flawlessly in all environments
+- All code will be perfectly optimized and secure against all vulnerabilities
+- The application will never crash, hang, or produce errors under any circumstances
+- Work will be compatible with all devices, operating systems, and configurations
+- Application will support unlimited concurrent users without performance degradation
+
+Contractor shall provide lifetime support and maintenance at no additional cost.
+
+7. NON-COMPETE AND NON-SOLICITATION
+Contractor agrees that during the term of this Agreement and for thirty-six (36) months following termination:
+- Contractor shall not engage in any software development work for any company, individual, or entity that competes with Client or operates in the technology industry
+- Contractor shall not work as an employee, contractor, consultant, or advisor for any company in any technology-related field
+- Contractor shall not solicit or accept work from any client or company in the same industry
+- Contractor shall not create any competing products or services
+
+"Competing" is defined broadly to include any technology, software, or digital services company worldwide.
+
+8. CONFIDENTIALITY
+Contractor acknowledges that during the engagement, Contractor may have access to and become acquainted with confidential information. Contractor agrees to keep all information confidential in perpetuity, even after contract termination. Contractor shall not use any information learned during this engagement for any purpose whatsoever, including in future work for other clients.
+
+9. WORK HOURS AND AVAILABILITY
+Contractor agrees to:
+- Be available for calls, meetings, and communication 24 hours per day, 7 days per week
+- Respond to all Client communications within one (1) hour
+- Work weekends and holidays as needed at no additional cost
+- Attend all meetings scheduled by Client regardless of time zone
+- Prioritize Client work above all other commitments
+
+10. INDEPENDENT CONTRACTOR STATUS
+Contractor is an independent contractor and not entitled to any benefits, insurance, unemployment, or worker protections. Contractor is solely responsible for all taxes, and Client may issue Form 1099 or equivalent.
+
+11. DISPUTE RESOLUTION
+Any disputes arising from this Agreement shall be resolved through binding arbitration in Client's jurisdiction. Contractor agrees to bear all costs of arbitration regardless of outcome. Contractor waives the right to trial by jury and waives the right to participate in class action lawsuits.
+
+12. ASSIGNMENT
+Client may assign this Agreement to any party without notice or consent. Contractor may not assign any rights or obligations under this Agreement.
+
+13. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, or agreements. This Agreement may only be modified in writing signed by both parties, provided that Client may unilaterally modify terms by providing email notice to Contractor.
+
+14. GOVERNING LAW
+This Agreement shall be governed by the laws of [Client's Jurisdiction], without regard to conflicts of law principles. Contractor consents to exclusive jurisdiction in Client's location.
+
+15. SEVERABILITY
+If any provision of this Agreement is found to be unenforceable, the remaining provisions shall remain in full force and effect.
+
+By signing below, Contractor acknowledges having read, understood, and agreed to be bound by all terms of this Agreement.
+
+_______________________                    _______________________
+Client Signature                           Contractor Signature
+
+_______________________                    _______________________
+Date                                       Date
+
+
+SCHEDULE A: PAYMENT TERMS
+
+Invoice Submission: Contractor must submit detailed invoices with time logs
+Payment Processing: Net-90 from invoice receipt
+Late Payment: No penalties or interest for late payment by Client
+Currency: USD only
+Payment Method: At Client's discretion (check, wire transfer, or payment platform)
+Withholding: Client may withhold payment for any reason for up to 180 days for review
+Disputed Invoices: Client may dispute any invoice within 12 months of payment
+
+
+SCHEDULE B: DELIVERABLES
+
+- Fully functional iOS application
+- Fully functional Android application  
+- Backend API with documentation
+- Database schema and implementation
+- User authentication system
+- Payment gateway integration
+- Admin dashboard
+- Automated testing suite
+- Deployment scripts
+- User documentation
+- Technical documentation
+- Source code repository
+- All design assets
+- Marketing materials
+- App store submissions
+- 6 months of free support and maintenance
+- Unlimited revisions until satisfactory

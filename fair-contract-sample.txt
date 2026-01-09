@@ -1,0 +1,104 @@
+FAIR FREELANCE DEVELOPMENT AGREEMENT
+
+This Agreement is entered into as of January 9, 2026, between TechStartup Inc. ("Client") and Alex Johnson ("Contractor").
+
+1. SCOPE OF WORK
+Contractor agrees to develop a mobile application for iOS and Android platforms according to specifications outlined in Exhibit A. The project includes:
+- User authentication system
+- Payment integration
+- Admin dashboard
+- Push notifications
+Any work outside this scope requires a separate written agreement and additional compensation.
+
+2. COMPENSATION AND PAYMENT TERMS
+Client agrees to pay Contractor a total of $15,000 for the completed project, structured as follows:
+- $5,000 upon signing (milestone 1)
+- $5,000 upon completion of authentication and payment systems (milestone 2)
+- $5,000 upon final delivery and acceptance (milestone 3)
+
+Payment is due within 15 business days of invoice submission. Late payments will incur interest at 1.5% per month. If payment is more than 30 days overdue, Contractor may suspend work until payment is received.
+
+3. INTELLECTUAL PROPERTY RIGHTS
+Client shall own all intellectual property rights to the work product specifically created for this project during billable hours, upon receipt of full payment.
+
+Contractor retains ownership of:
+- Pre-existing code, libraries, and tools brought into the project
+- Personal projects and work created outside billable hours
+- General skills and knowledge gained during the project
+
+Contractor grants Client a perpetual license to use any pre-existing materials incorporated into the deliverables.
+
+4. REVISIONS AND CHANGES
+The contract includes up to two rounds of revisions per milestone. Additional revisions beyond this scope will be billed at $100 per hour.
+
+Major scope changes require a written change order and may result in adjusted timeline and compensation.
+
+5. TIMELINE
+Estimated project completion: 8 weeks from start date. Timeline may be extended due to:
+- Client delays in providing feedback or materials
+- Scope changes
+- Force majeure events
+
+6. TERMINATION
+Either party may terminate this agreement with 14 days written notice. Upon termination:
+- Client must pay for all completed milestones
+- Client must pay for work-in-progress at the hourly rate of $100/hour
+- Contractor will deliver all completed work
+- Both parties return any confidential materials
+
+7. LIABILITY AND INDEMNIFICATION
+Contractor's liability is limited to the total amount paid under this agreement. Contractor is not liable for:
+- Issues arising from Client-provided specifications or materials
+- Third-party service failures (hosting, APIs, etc.)
+- Damages exceeding the contract value
+
+Client indemnifies Contractor against claims arising from Client's use of the deliverables.
+
+8. WARRANTIES
+Contractor warrants that:
+- Work will be performed in a professional manner
+- Deliverables will substantially conform to specifications
+- Work does not infringe on third-party intellectual property rights
+
+Contractor will fix bugs in the delivered code for 30 days after final delivery at no charge. After 30 days, bug fixes are billed at standard hourly rates.
+
+9. CONFIDENTIALITY
+Both parties agree not to disclose confidential information shared during this project. Confidential information does not include:
+- Information already public
+- Information independently developed
+- Information required to be disclosed by law
+
+Contractor may include this project in their portfolio with Client's prior written consent.
+
+10. INDEPENDENT CONTRACTOR STATUS
+Contractor is an independent contractor, not an employee. Contractor is responsible for their own taxes, insurance, and benefits.
+
+11. NON-COMPETE
+During the project term only, Contractor agrees not to work on directly competing products (defined as mobile apps in the same market category with substantially similar core features). This restriction expires immediately upon project completion.
+
+12. DISPUTE RESOLUTION
+Any disputes will first be addressed through good-faith negotiation. If unresolved, disputes will be settled through binding arbitration in accordance with the rules of the American Arbitration Association.
+
+13. ENTIRE AGREEMENT
+This agreement constitutes the entire agreement between the parties and supersedes all prior negotiations and agreements. Modifications must be in writing and signed by both parties.
+
+14. GOVERNING LAW
+This agreement is governed by the laws of the State of California.
+
+
+AGREED AND ACCEPTED:
+
+Client: TechStartup Inc.
+By: _________________________
+Name: Sarah Chen
+Title: CEO
+Date: _______________________
+
+
+Contractor: Alex Johnson
+By: _________________________
+Date: _______________________
+
+
+EXHIBIT A: DETAILED SPECIFICATIONS
+[Detailed feature specifications would be attached here]
