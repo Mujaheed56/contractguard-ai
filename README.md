@@ -1,8 +1,6 @@
 # 🛡️ ContractGuard AI
 
-**Your Freelance Contract Bodyguard** - AI-powered contract analysis that protects freelancers from predatory terms.
-
-🏆 **Built for Nexora Hacks 2026**
+AI-powered contract analysis that protects freelancers from predatory terms.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Mujaheed56/contractguard-ai)
 
@@ -188,49 +186,10 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 ## 👨‍💻 Author
 
-**Built with ❤️ for Nexora Hacks 2026**
-
-Protecting freelancers, one contract at a time.
+Muhammad
 
 ---
 
 ## 📄 License
 
-MIT License - feel free to use this project for your portfolio or build upon it!
-
----
-
-## 🙏 Acknowledgments
-
-- Google Gemini for the AI model
-- Next.js team for the amazing framework
-- All freelancers who've been burned by bad contracts
-- Nexora Hacks 2026 organizers
-
-- [ ] Multi-language support (French, Spanish, Portuguese)
-- [ ] Lawyer marketplace (connect with affordable legal help)
-- [ ] Company compliance mode (B2B SaaS)
-
----
-
-## 📜 Legal Disclaimer
-
-ContractGuard AI provides educational information only - not legal advice. For legal advice specific to your situation, consult a licensed attorney.
-
----
-
-## 👨‍💻 Author
-
-Built with ❤️ for freelancers everywhere.
-
-**Nexora Hacks 2026 Submission**
-
----
-
-## 📝 License
-
-MIT License - feel free to use this code to protect freelancers worldwide.
-
----
-
-**Remember: Don't sign your rights away. Let ContractGuard AI watch your back.**
+MIT
