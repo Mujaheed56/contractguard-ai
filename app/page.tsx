@@ -86,7 +86,7 @@ export default function Home() {
                     "All intellectual property created during contract term and within 24 months after, including personal projects, becomes exclusive property of Client."
                   </blockquote>
                   <p>
-                    Six months later, Emeka built a side project on weekends. It went viral. The client claimed ownership. Emeka lost everything.
+                    Six months later, Muhammad built a side project on weekends. It went viral. The client claimed ownership. Muhammad lost everything.
                   </p>
                   <p className="text-xl font-semibold text-red-600">
                     He didn't know. He couldn't afford a $500/hour lawyer.

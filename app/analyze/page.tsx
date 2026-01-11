@@ -318,14 +318,14 @@ This agreement is governed by the laws of the State of California.`;
               disabled={isAnalyzing}
               className="flex-1 px-6 py-3 bg-red-50 text-red-700 border border-red-200 rounded-xl hover:bg-red-100 disabled:opacity-50 transition-all font-semibold"
             >
-              🚨 Try Predatory Contract
+              Try Predatory Contract
             </button>
             <button
               onClick={loadFairSample}
               disabled={isAnalyzing}
               className="flex-1 px-6 py-3 bg-green-50 text-green-700 border border-green-200 rounded-xl hover:bg-green-100 disabled:opacity-50 transition-all font-semibold"
             >
-              ✅ Try Fair Contract
+              Try Fair Contract
             </button>
           </div>
         </div>

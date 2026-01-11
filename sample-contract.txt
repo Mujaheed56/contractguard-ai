@@ -1,4 +1,4 @@
-FREELANCE SOFTWARE DEVELOPMENT CONTRACT
+3s  w+66-FREELANCE SOFTWARE DEVELOPMENT CONTRACT
 
 This Freelance Agreement ("Agreement") is entered into as of January 1, 2026 ("Effective Date") by and between TechCorp International Ltd. ("Client") and [Your Name] ("Contractor").
 
@@ -105,7 +105,7 @@ Late Payment: No penalties or interest for late payment by Client
 Currency: USD only
 Payment Method: At Client's discretion (check, wire transfer, or payment platform)
 Withholding: Client may withhold payment for any reason for up to 180 days for review
-Disputed Invoices: Client may dispute any invoice within 12 months of payment
+Dispu   1ted Invoices: Client may dispute any invoice within 12 months of payment
 
 
 SCHEDULE B: DELIVERABLES
@@ -116,7 +116,7 @@ SCHEDULE B: DELIVERABLES
 - Database schema and implementation
 - User authentication system
 - Payment gateway integration
-- Admin dashboard
+- **`Admin dashboard
 - Automated testing suite
 - Deployment scripts
 - User documentation
@@ -127,3 +127,4 @@ SCHEDULE B: DELIVERABLES
 - App store submissions
 - 6 months of free support and maintenance
 - Unlimited revisions until satisfactory
+*-
